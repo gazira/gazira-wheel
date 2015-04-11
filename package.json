@@ -1,0 +1,22 @@
+{
+  "name": "gazira-wheel",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "wheel event support",
+  "keywords": [
+    "wheel", "jquery", "event"
+  ],
+  "spm": {
+    "main": "index.js",
+    "dependencies": {
+      "jquery": "1.11.1",
+      "gazira-browser": "0.0.2"
+    },
+    "devDependencies": {
+    },
+    "tests": "",
+    "ignore": [
+    ],
+    "buildArgs": ""
+  }
+}
